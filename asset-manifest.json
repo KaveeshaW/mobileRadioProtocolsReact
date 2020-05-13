@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mobileRadioProtocolsReact/static/css/main.03609436.chunk.css",
-    "main.js": "/mobileRadioProtocolsReact/static/js/main.a3352aea.chunk.js",
-    "main.js.map": "/mobileRadioProtocolsReact/static/js/main.a3352aea.chunk.js.map",
+    "main.js": "/mobileRadioProtocolsReact/static/js/main.efeaab12.chunk.js",
+    "main.js.map": "/mobileRadioProtocolsReact/static/js/main.efeaab12.chunk.js.map",
     "runtime-main.js": "/mobileRadioProtocolsReact/static/js/runtime-main.4b8ba08f.js",
     "runtime-main.js.map": "/mobileRadioProtocolsReact/static/js/runtime-main.4b8ba08f.js.map",
-    "static/js/2.73cbeb71.chunk.js": "/mobileRadioProtocolsReact/static/js/2.73cbeb71.chunk.js",
-    "static/js/2.73cbeb71.chunk.js.map": "/mobileRadioProtocolsReact/static/js/2.73cbeb71.chunk.js.map",
+    "static/js/2.2b0dad44.chunk.js": "/mobileRadioProtocolsReact/static/js/2.2b0dad44.chunk.js",
+    "static/js/2.2b0dad44.chunk.js.map": "/mobileRadioProtocolsReact/static/js/2.2b0dad44.chunk.js.map",
     "index.html": "/mobileRadioProtocolsReact/index.html",
-    "precache-manifest.84abce42754e617253783cc7de3137e1.js": "/mobileRadioProtocolsReact/precache-manifest.84abce42754e617253783cc7de3137e1.js",
+    "precache-manifest.69aa15d80d7e6ce347b80c6878c0a017.js": "/mobileRadioProtocolsReact/precache-manifest.69aa15d80d7e6ce347b80c6878c0a017.js",
     "service-worker.js": "/mobileRadioProtocolsReact/service-worker.js",
     "static/css/main.03609436.chunk.css.map": "/mobileRadioProtocolsReact/static/css/main.03609436.chunk.css.map",
-    "static/js/2.73cbeb71.chunk.js.LICENSE.txt": "/mobileRadioProtocolsReact/static/js/2.73cbeb71.chunk.js.LICENSE.txt",
+    "static/js/2.2b0dad44.chunk.js.LICENSE.txt": "/mobileRadioProtocolsReact/static/js/2.2b0dad44.chunk.js.LICENSE.txt",
     "static/media/amplitude-modulation1.png": "/mobileRadioProtocolsReact/static/media/amplitude-modulation1.bc8075cf.png",
     "static/media/bandwidth-example-2_1.gif": "/mobileRadioProtocolsReact/static/media/bandwidth-example-2_1.b159f713.gif",
     "static/media/broadcast-radio_1.jpg": "/mobileRadioProtocolsReact/static/media/broadcast-radio_1.f4be3f3e.jpg",
@@ -29,15 +29,17 @@
     "static/media/physical-serial-number-and-group-id_2.jpg": "/mobileRadioProtocolsReact/static/media/physical-serial-number-and-group-id_2.6b526f61.jpg",
     "static/media/registration.jpg": "/mobileRadioProtocolsReact/static/media/registration.a30f2f15.jpg",
     "static/media/repeater-control-channel-timeslot_3.png": "/mobileRadioProtocolsReact/static/media/repeater-control-channel-timeslot_3.dbf3d320.png",
+    "static/media/research_paper.docx": "/mobileRadioProtocolsReact/static/media/research_paper.f1611013.docx",
     "static/media/simplex-radio_1.jpg": "/mobileRadioProtocolsReact/static/media/simplex-radio_1.d55972c8.jpg",
     "static/media/switching-zones_1.jpg": "/mobileRadioProtocolsReact/static/media/switching-zones_1.1946c2c1.jpg",
     "static/media/transportation.jpg": "/mobileRadioProtocolsReact/static/media/transportation.b111e22e.jpg",
-    "static/media/twoZones.jpg": "/mobileRadioProtocolsReact/static/media/twoZones.f860738e.jpg"
+    "static/media/twoZones.jpg": "/mobileRadioProtocolsReact/static/media/twoZones.f860738e.jpg",
+    "static/media/works_cited.docx": "/mobileRadioProtocolsReact/static/media/works_cited.acf53a65.docx"
   },
   "entrypoints": [
     "static/js/runtime-main.4b8ba08f.js",
-    "static/js/2.73cbeb71.chunk.js",
+    "static/js/2.2b0dad44.chunk.js",
     "static/css/main.03609436.chunk.css",
-    "static/js/main.a3352aea.chunk.js"
+    "static/js/main.efeaab12.chunk.js"
   ]
 }

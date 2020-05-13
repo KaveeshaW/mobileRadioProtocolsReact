@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc2b915ad3fb6a6fcfb7262a81e67c24",
+    "revision": "1de4ad11368f27bc8776fe910dfc8126",
     "url": "/mobileRadioProtocolsReact/index.html"
   },
   {
-    "revision": "f68e44560df0b18bca10",
+    "revision": "3465b7d5b8af81f2aa9b",
     "url": "/mobileRadioProtocolsReact/static/css/main.03609436.chunk.css"
   },
   {
-    "revision": "5fee7284ff22152e9a23",
-    "url": "/mobileRadioProtocolsReact/static/js/2.73cbeb71.chunk.js"
+    "revision": "6c29635a94b28ab1164b",
+    "url": "/mobileRadioProtocolsReact/static/js/2.2b0dad44.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/mobileRadioProtocolsReact/static/js/2.73cbeb71.chunk.js.LICENSE.txt"
+    "url": "/mobileRadioProtocolsReact/static/js/2.2b0dad44.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f68e44560df0b18bca10",
-    "url": "/mobileRadioProtocolsReact/static/js/main.a3352aea.chunk.js"
+    "revision": "3465b7d5b8af81f2aa9b",
+    "url": "/mobileRadioProtocolsReact/static/js/main.efeaab12.chunk.js"
   },
   {
     "revision": "b14b8c3e5a528964301a",
@@ -92,6 +92,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mobileRadioProtocolsReact/static/media/repeater-control-channel-timeslot_3.dbf3d320.png"
   },
   {
+    "revision": "f1611013e3662f32433115940c91bb15",
+    "url": "/mobileRadioProtocolsReact/static/media/research_paper.f1611013.docx"
+  },
+  {
     "revision": "d55972c8a9af5a16c4fba8f029f9e374",
     "url": "/mobileRadioProtocolsReact/static/media/simplex-radio_1.d55972c8.jpg"
   },
@@ -106,5 +110,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f860738ed364750668943866a1625cb2",
     "url": "/mobileRadioProtocolsReact/static/media/twoZones.f860738e.jpg"
+  },
+  {
+    "revision": "acf53a650a67209bc1c78c3c11e99378",
+    "url": "/mobileRadioProtocolsReact/static/media/works_cited.acf53a65.docx"
   }
 ]);
