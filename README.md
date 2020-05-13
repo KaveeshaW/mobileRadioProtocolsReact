@@ -1,3 +1,7 @@
+This project is a PWA using Reactjs. It utilizes functional components, states, react-router-dom, fragments, and hooks. Because I did not create a website from scratch for my project focusing on mobile radio protocols, I thought of recreating using React.  
+
+To run the project, simply click on the project link.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
