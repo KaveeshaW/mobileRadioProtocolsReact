@@ -1,4 +1,4 @@
-This project is a PWA using React. It utilizes functional components, states, react-router-dom, fragments, and hooks. Because I did not create a website from scratch for my project focusing on mobile radio protocols, I thought of recreating it using React.  
+This project is a SPA using React. It utilizes functional components, states, react-router-dom, fragments. Because I did not create a website from scratch for my project focusing on mobile radio protocols, I thought of recreating it using React.  
 
 To run the project, simply click on the project link.
 
